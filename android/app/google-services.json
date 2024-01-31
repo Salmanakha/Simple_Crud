@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827635554587",
+    "project_id": "simplecrud-5d146",
+    "storage_bucket": "simplecrud-5d146.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827635554587:android:11a83df24af64c99e55bbe",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5_eoq0cfzoCgixPB1RroVWzOiJEbnmec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
